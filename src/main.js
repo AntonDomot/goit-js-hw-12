@@ -122,7 +122,7 @@ function showError(message) {
   iziToast.error({
     message,
     messageAlign: 'center',
-    position: 'center',
+    position: 'topRight',
     messageColor: '#ffffff',
     messageSize: '16px',
     backgroundColor: '#ef4040',
